@@ -1,1 +1,1 @@
-# phase0
+This repository contain challenges, whether graded or not, from Hacktiv8 bootcamp. There are 3 phases in the bootcamp which gets more advanced as the phases goes by.
